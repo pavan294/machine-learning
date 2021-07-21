@@ -1,0 +1,2 @@
+https://thispointer.com/how-to-get-check-data-types-of-dataframe-columns-in-python-pandas/
+https://stackoverflow.com/questions/17092671/python-pandas-output-dataframe-to-csv-with-integers
